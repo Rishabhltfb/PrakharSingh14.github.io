@@ -1,1 +1,528 @@
-# PrakharSingh14.github.io
+
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Prakhar Singh</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<meta name="google-site-verification" content="WzFoN_kYrmL-j5h9bXjT-YtK_shj21X29egQoVP4vrk" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/IMG_3133.png" alt="" /></span>
+					<h1 id="logo"><a href="#">Johanna Müller-Horn</a></h1>
+					<p>PhD candidate<br />
+					@MPIA Heidelberg, Germany</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About me</a></li>
+						<li><a href="#two">Research</a></li>
+						<li><a href="#three">Publications</a></li>
+						<li><a href="#four">Contact</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<!--<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>-->
+						<li><a href="mailto:mueller-horn@mpia.de" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="https://orcid.org/0000-0001-9590-3170" class="icon brands fa-orcid"><span class="label">Orcid</span></a></li>
+						<li><a href="https://www.mpia.de/rix/team" class="icon solid fa-user-friends"><span class="label">ADS</span></a></li>
+						<li><a href="https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=OR&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FU%20Gottingen%22&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FMax%20Planck%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq_aff=(aff_facet_hier%3A%220%2FU%20Gottingen%22%20OR%20aff_facet_hier%3A%220%2FMax%20Planck%22)&q=%20author%3A%22Johanna%20M%C3%BCller-Horn%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" class="fa-icon fa-test"><span class="label"> ADS</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/47Tuc.jpeg" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h2>Hi!</h2>
+										<p>I am a PhD candidate at the Max Planck Institute for Astronomy in Heidelberg and interested in observational astronomy, binary stars and black holes. </p>
+											<!-- This is a website link <a href="http://html5up.net">HTML5 UP</a>.-->
+									</header>
+									<p> In September 2023, I started my PhD at MPIA Heidelberg, where I am working with Professor Hans-Walter Rix on the search for dormant black holes. Based on high-resolution, multi-epoch spectroscopy, I search for and characterize binary star systems with possible compact companions.
+									I am interested in uncovering the formation pathways of these systems and, more broadly, in constraining the properties of the black hole population in the Milky Way.</p>
+
+									 <p> Before that, I did my undergraduate studies at the University of Göttingen and have spent two semesters abroad at the Universities of Padova and Stockholm.
+									 In my Master's thesis, I studied spectroscopic binaries in globular clusters, working with Professors Stefan Dreizler and Sebastian Kamann and the MUSE consortium.
+									<h4>Key Interests</h4>
+								<ul class="feature-icons">
+										<li class="icon solid fa-angle-right">Binary star systems</li>
+										<li class="icon solid fa-angle-right">(Integral field) Spectroscopy</li>
+										<li class="icon solid fa-angle-right">Black holes and compact objects</li>
+										<li class="icon solid fa-angle-right">Spectral Disentangling</li>
+										<li class="icon solid fa-angle-right">Globular clusters</li>
+										<li class="icon solid fa-angle-right">Bayesian Statistics</li>
+									</ul>
+									<p> <i> Image Credit: 47 Tuc by NASA, ESA, and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration
+Acknowledgment: J. Mack (STScI) and G. Piotto (University of Padova, Italy) </i> </p>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="two">
+								<div class="container">
+									<h3>Research</h3>
+									<p> </p>
+									<div class="features">
+										<article>
+											<a href="#" class="image"><img src="images/dormant_bh.jpeg" alt="" /></a>
+											<div class="inner">
+												<h4>Hunting for dormant black holes in the Milky Way</h4>
+												<p>While population synthesis models anticipate billions of stellar-mass BHs in the Milky Way, only a few have been identified, mostly in X-ray-emitting, accreting binary systems.
+													My research instead concentrates on dormant BHs in detached binary systems. These BHs induce distinct variations in their companion's radial velocity, flux, and light-centroid position,
+													offering an indirect detection method.
+												<br /><i>Image Credit: ESO/Calçada, L. </i></p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/47Tuc_small.jpeg" alt="" /></a>
+											<div class="inner">
+												<h4><a href="https://zenodo.org/record/8346214">Binary properties of the globular cluster 47 Tuc (NGC 104)</a></h4>
+												<p>Observations of binary stars in globular clusters are essential to understand cluster dynamics, shed light on the formation of peculiar stellar objects and to probe the elusive populations of dark stellar remnants.
+ Using multi-epoch data from the VLT/MUSE integral field spectrograph, I have analysed the binary population of 47 Tuc, one of the oldest and most massive Galactic globular clusters. Results include the identification of several hundred binary candidates based on radial velocity variability, a new estimate of the total binary fraction in the cluster and
+ constraints on the number of black holes in binary systems in 47 Tuc.
+											 <br /><i>Image Credit: <a href="https://hubblesite.org/contents/media/images/2015/16/3545-Image.html?page=1&keyword=47%20Tuc&filterUUID=6158b489-8e9a-46e2-b679-a868c297bd51">ESA/NASA/Hubble</a> </i> </p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/HD163296.jpg" alt="" /></a>
+											<div class="inner">
+												<h4><a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.163M/abstract">Gap-opening planets around type-A stars</a>
+ 											  </h4>
+												<p>During a summer internship @MPIA Heidelberg, I worked on theoretical planet formation models under the supervision of Dr. Gabriele Pichierri and Dr. Bertram Bitsch. I investigated whether and under what circumstances the presumed gap-opening planets in protoplanetary disks around young stars could represent progenitors of the discovered exoplanet population. More specifically, I simulated the evolution of the embedded planets during the lifetime of the disk and analysed the dependence of the final planetary masses and orbital parameters on the disk viscosity.
+												<br /><i>Image Credit: <a href="https://ui.adsabs.harvard.edu/abs/2018ApJ...869L..41A/abstract">DSHARP survey</a>, Andrews, S. et al. </i> </p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/cnn_architecture.png" alt="" /></a>
+											<div class="inner">
+												<h4>Cosmological parameter inference from the distribution of dark matter halos</h4>
+												<p>In 2021, I worked on a cosmological project at the Oskar Klein Centre in Stockholm with Dr. Jens Jasche as part of an ERASMUS internship. My work there focused on inferring cosmological parameters from the large scale density distribution of galaxies using convolutional neural networks (CNN). For the project, I worked with a subset of Quijote N-body simulations from which I generated training data. The CNN achieved significant improvement in prediction accuracy compared to related work, especially regarding Omega matter.</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+							<!-- Three -->
+								<section id="three">
+									<div class="container">
+										<h3>Publications</h3>
+										<p>You can find my publications on <a href="https://ui.adsabs.harvard.edu/search/filter_aff_facet_hier_fq_aff=OR&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FU%20Gottingen%22&filter_aff_facet_hier_fq_aff=aff_facet_hier%3A%220%2FMax%20Planck%22&fq=%7B!type%3Daqp%20v%3D%24fq_aff%7D&fq_aff=(aff_facet_hier%3A%220%2FU%20Gottingen%22%20OR%20aff_facet_hier%3A%220%2FMax%20Planck%22)&q=%20author%3A%22Johanna%20M%C3%BCller-Horn%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">ADS</a> or <a href="https://arxiv.org/search/?query=J.+M%C3%BCller-Horn&searchtype=author&abstracts=show&order=-announced_date_first&size=50">the arxiv</a>.</p>
+										<h4>First-author papers</h4>
+										<li class='enumerated-item'>  Müller-Horn, J. et al. <b>"Emerging population of gap-opening planets around type-A stars. Long-term evolution of the forming planets around HD 163296"</b>, A&A, Volume 663, A163, 2022:
+											 <a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.163M/abstract">ADS</a>,
+											 <a href="https://arxiv.org/abs/2204.11086">arxiv</a>.</p>
+									  </li>
+										<h4>Co-author papers</h4>
+										<li class='enumerated-item'>  Saracino, S. [and 9 others including Müller-Horn, J.] <b>"A closer look at the binary content of NGC 1850"</b>, MNRAS, Volume 526, 2023: <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.526..299S/abstract">ADS</a>,
+											 <a href="https://arxiv.org/abs/2309.03333">arxiv</a>.</p>
+									  </li>
+										<h4>Presentations</h4>
+										<li class='enumerated-item'> <i> Two in a million - The interplay between binaries and star clusters @ ESO, Garching (09/2023) </i> <br />
+											 <b>"Binary Properties of the Globular Cluster 47 Tuc (NGC 104)" </b> <br />
+											 Contributed talk, slides available via <a href="https://zenodo.org/record/8346214">Zenodo</a></p>
+									  </li>
+										<li class='enumerated-item'> <i> The Renaissance of Stellar Black-Hole Detections in The Local Group @ Lorentz Center, Leiden (06/2023) </i> <br />
+											 <b>"The Binary Population of NGC 104 - Searching for Stellar Remnants in Globular Clusters with MUSE" </b> Poster presentation
+									 </li>
+									</div>
+								</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Contact</h3>
+									<ul class="feature-icons">
+										<li class="fa-envelope"> <a href="mailto:mueller-horn@mpia.de"> mueller-horn@mpia.de </a></li>
+										<li class="fa-address-book">Room 114-A <br /> Max-Planck-Institut für Astronmie <br /> Königstuhl 17 <br />
+											D-69117 Heidelberg, Germany</li>
+										<!-- <li class="fa-phone">(+49/0)6221-528-442</li> -->
+                    </ul>
+
+									<p> </p>
+												<ul class="actions">
+													<li><a href="mailto:mueller-horn@mpia.de" class="primary" </a> <input type="submit" class="primary" value="Send Message" /></li>
+												</ul>
+								</div>
+							</section>
+
+
+						<!-- Five -->
+						<!--
+							<section id="five">
+								<div class="container">
+									<h3>Elements</h3>
+
+									<section>
+										<h4>Text</h4>
+										<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+										This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+										This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+										<hr />
+										<header>
+											<h4>Heading with a Subtitle</h4>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<header>
+											<h5>Heading with a Subtitle</h5>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<hr />
+										<h2>Heading Level 2</h2>
+										<h3>Heading Level 3</h3>
+										<h4>Heading Level 4</h4>
+										<h5>Heading Level 5</h5>
+										<h6>Heading Level 6</h6>
+										<hr />
+										<h5>Blockquote</h5>
+										<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+										<h5>Preformatted</h5>
+										<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+									</section>
+
+									<section>
+										<h4>Lists</h4>
+										<div class="row">
+											<div class="col-6 col-12-xsmall">
+												<h5>Unordered</h5>
+												<ul>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+												<h5>Alternate</h5>
+												<ul class="alt">
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+											</div>
+											<div class="col-6 col-12-xsmall">
+												<h5>Ordered</h5>
+												<ol>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ol>
+												<h5>Icons</h5>
+												<ul class="icons">
+													<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+													<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+													<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+													<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+													<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+													<li><a href="#" class="icon brands fa-tumblr"><span class="label">Tumblr</span></a></li>
+												</ul>
+											</div>
+										</div>
+										<h5>Actions</h5>
+										<ul class="actions">
+											<li><a href="#" class="button primary">Default</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Default</a></li>
+										</ul>
+										<ul class="actions small">
+											<li><a href="#" class="button primary small">Small</a></li>
+											<li><a href="#" class="button small">Small</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<div class="row">
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary">Default</a></li>
+													<li><a href="#" class="button">Default</a></li>
+													<li><a href="#" class="button alt">Default</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6 col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary small">Small</a></li>
+													<li><a href="#" class="button small">Small</a></li>
+													<li><a href="#" class="button alt small">Small</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary fit">Default</a></li>
+													<li><a href="#" class="button fit">Default</a></li>
+													<li><a href="#" class="button alt fit">Default</a></li>
+												</ul>
+											</div>
+											<div class="col-3 col-6-medium col-12-xsmall">
+												<ul class="actions stacked">
+													<li><a href="#" class="button primary small fit">Small</a></li>
+													<li><a href="#" class="button small fit">Small</a></li>
+													<li><a href="#" class="button alt small fit">Small</a></li>
+												</ul>
+											</div>
+										</div>
+									</section>
+
+									<section>
+										<h4>Table</h4>
+										<h5>Default</h5>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+
+										<h5>Alternate</h5>
+										<div class="table-wrapper">
+											<table class="alt">
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+									</section>
+
+									<section>
+										<h4>Buttons</h4>
+										<ul class="actions">
+											<li><a href="#" class="button primary">Primary</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Alternate</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button primary large">Large</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<ul class="actions fit">
+											<li><a href="#" class="button primary fit">Fit</a></li>
+											<li><a href="#" class="button fit">Fit</a></li>
+											<li><a href="#" class="button alt fit">Fit</a></li>
+										</ul>
+										<ul class="actions fit small">
+											<li><a href="#" class="button primary fit small">Fit + Small</a></li>
+											<li><a href="#" class="button fit small">Fit + Small</a></li>
+											<li><a href="#" class="button alt fit small">Fit + Small</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+											<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+											<li><a href="#" class="button alt icon solid fa-check">Icon</a></li>
+										</ul>
+										<ul class="actions">
+											<li><span class="button primary disabled">Primary</span></li>
+											<li><span class="button disabled">Default</span></li>
+											<li><span class="button alt disabled">Alternate</span></li>
+										</ul>
+									</section>
+
+									<section>
+										<h4>Form</h4>
+										<form method="post" action="#">
+											<div class="row gtr-uniform">
+												<div class="col-6 col-12-xsmall">
+													<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+												</div>
+												<div class="col-6 col-12-xsmall">
+													<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+												</div>
+												<div class="col-12">
+													<select name="demo-category" id="demo-category">
+														<option value="">- Category -</option>
+														<option value="1">Manufacturing</option>
+														<option value="1">Shipping</option>
+														<option value="1">Administration</option>
+														<option value="1">Human Resources</option>
+													</select>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+													<label for="demo-priority-low">Low Priority</label>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-normal" name="demo-priority">
+													<label for="demo-priority-normal">Normal Priority</label>
+												</div>
+												<div class="col-4 col-12-medium">
+													<input type="radio" id="demo-priority-high" name="demo-priority">
+													<label for="demo-priority-high">High Priority</label>
+												</div>
+												<div class="col-6 col-12-medium">
+													<input type="checkbox" id="demo-copy" name="demo-copy">
+													<label for="demo-copy">Email me a copy of this message</label>
+												</div>
+												<div class="col-6 col-12-medium">
+													<input type="checkbox" id="demo-human" name="demo-human" checked>
+													<label for="demo-human">I am a human and not a robot</label>
+												</div>
+												<div class="col-12">
+													<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+												</div>
+												<div class="col-12">
+													<ul class="actions">
+														<li><input type="submit" value="Send Message" /></li>
+														<li><input type="reset" value="Reset" class="alt" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+									<section>
+										<h4>Image</h4>
+										<h5>Fit</h5>
+										<span class="image fit"><img src="images/banner.jpg" alt="" /></span>
+										<div class="box alt">
+											<div class="row gtr-50 gtr-uniform">
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="col-4"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											</div>
+										</div>
+										<h5>Left &amp; Right</h5>
+										<p><span class="image left"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+										<p><span class="image right"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									</section>
+
+								</div>
+							</section>
+						-->
+
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<p>&copy 2023 Johanna Müller-Horn | Design adapted from <a href="https://html5up.net/read-only">Read Only HTML5 UP template</a></p>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
