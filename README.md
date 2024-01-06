@@ -18,9 +18,9 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/IMG_3133.png" alt="" /></span>
-					<h1 id="logo"><a href="#">Johanna Müller-Horn</a></h1>
+					<h1 id="logo"><a href="#">Prakhar Singh</a></h1>
 					<p>PhD candidate<br />
-					@MPIA Heidelberg, Germany</p>
+					@ARIES, India </p>
 				</header>
 				<nav id="nav">
 					<ul>
